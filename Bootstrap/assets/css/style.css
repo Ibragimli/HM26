@@ -1,3 +1,7 @@
+.body {
+  background-color: var(--bs-body-bg);
+}
+
 .boxes h3 {
   border: 1px solid rgba(128, 128, 128, 0.5);
 }
